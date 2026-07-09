@@ -65,8 +65,8 @@ https://www.datascienceportfol.io/abdoelstar71
 
 ## 📸 Dashboard Preview
 
-><img width="646" height="368" alt="image" src="https://github.com/user-attachments/assets/b8b49211-a425-4414-821c-a7edb1d95265" />
-<img width="768" height="438" alt="image" src="https://github.com/user-attachments/assets/4749573c-ce12-4e47-a7a8-aaa9e7dbb1ba" />
+<img width="637" height="358" alt="Overview" src="https://github.com/user-attachments/assets/f146bd00-9c28-4f82-8168-bd69b046e32b" />
+<img width="762" height="429" alt="Product" src="https://github.com/user-attachments/assets/132fc09c-5ead-4cc5-b740-9ba100f80a36" />
 <img width="765" height="429" alt="image" src="https://github.com/user-attachments/assets/9596a598-c927-46a7-bcd8-75b84d938a1d" />
 <img width="763" height="431" alt="image" src="https://github.com/user-attachments/assets/0a9bec93-96b1-4978-bfaf-8f6b795fcea6" />
 
