@@ -48,18 +48,6 @@ Music Analysis is an interactive Power BI dashboard designed to analyze music da
 
 ---
 
-## 🗂️ Data Model
-
-The project includes multiple related tables for:
-
-- Artists
-- Albums
-- Tracks
-- Genres
-- Music Metrics
-
----
-
 ## 📸 Dashboard Preview
 
 > Add dashboard screenshots here.
