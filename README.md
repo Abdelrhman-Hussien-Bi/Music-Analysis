@@ -56,6 +56,7 @@ Offers detailed transactional data with interactive filtering and drill-through 
 ## 🌐 Live Dashboard
 
 🔗 **View the Interactive Dashboard**
+https://app.fabric.microsoft.com/groups/me/reports/44f328eb-9c83-463c-9ab2-3b8bf41255ba/9164d294709bc8001383?experience=fabric-developer&bookmarkGuid=f3abe56005798a506b5b
 
 **Portfolio:**  
 https://www.datascienceportfol.io/abdoelstar71
@@ -64,7 +65,11 @@ https://www.datascienceportfol.io/abdoelstar71
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboard pages here.
+><img width="646" height="368" alt="image" src="https://github.com/user-attachments/assets/b8b49211-a425-4414-821c-a7edb1d95265" />
+<img width="768" height="438" alt="image" src="https://github.com/user-attachments/assets/4749573c-ce12-4e47-a7a8-aaa9e7dbb1ba" />
+<img width="765" height="429" alt="image" src="https://github.com/user-attachments/assets/9596a598-c927-46a7-bcd8-75b84d938a1d" />
+<img width="763" height="431" alt="image" src="https://github.com/user-attachments/assets/0a9bec93-96b1-4978-bfaf-8f6b795fcea6" />
+
 
 ---
 
